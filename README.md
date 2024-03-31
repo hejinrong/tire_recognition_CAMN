@@ -10,7 +10,7 @@ mmdet==2.24.1
 numpy==1.24.4
 # 命令行搭建环境
 # 创建环境
-conda create -n tire python=3.7 -y
+conda create -n tire python=3.8.2 -y
 conda activate tire
 # 安装基础环境
 pip install -r requirement.txt #安装基础环境
