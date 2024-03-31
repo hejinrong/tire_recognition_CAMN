@@ -20,6 +20,5 @@ pip install -r requirements/build.txt
 pip install -v -e .  # or "python setup.py develop"
 
 参考代码库：
-https://mmfewshot.readthedocs.io/en/latest/install.html
 https://github.com/open-mmlab/mmfewshot
 
