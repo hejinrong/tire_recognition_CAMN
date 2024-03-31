@@ -1,5 +1,5 @@
 # tire_recognition_CAMN
-
+![image](https://github.com/hejinrong/tire_recognition_CAMN/assets/10822423/84ca1e98-3a0a-4a8f-ad48-6088595561a8)
 # 环境要求
 matplotlib==3.7.4
 matplotlib-inline==0.1.6
@@ -8,7 +8,6 @@ mmcls==0.23.0
 mmcv-full==1.5.2
 mmdet==2.24.1
 numpy==1.24.4
-
 # 创建环境
 conda create -n tire python=3.8.2 -y
 conda activate tire
