@@ -1,5 +1,5 @@
 # tire_recognition_CAMN
-![Uploading image.png…]()
+![f36ea31f42fdbf5da269172d36eef47](https://github.com/hejinrong/tire_recognition_CAMN/assets/10822423/1f03892d-7f79-49a1-be63-762f3eaec0a6)
 
 # 环境要求
 matplotlib==3.7.4
