@@ -24,7 +24,6 @@ python tools/classification/train.py configs/classification/matching_net/mini_im
 
 ## 测试过程(5way1shot训练为例)
 python tools/classification/test.py configs/classification/matching_net/mini_imagenet/matching-net_resnet12_1xb105_mini-imagenet_5way-1shot.py --metric Recall
-![image](https://github.com/hejinrong/tire_recognition_CAMN/assets/10822423/84ca1e98-3a0a-4a8f-ad48-6088595561a8)
 
 参考代码库如下，非常感谢openmmlab社区的贡献。
 https://github.com/open-mmlab/mmfewshot
