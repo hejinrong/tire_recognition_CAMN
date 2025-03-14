@@ -1,4 +1,4 @@
-## TireNet
+## TireNetTireNet —— A method for Tire Track Image Recognition
 ![image](https://github.com/user-attachments/assets/ea532797-e853-4d57-8afb-c8550205ce4c)
 
 ## 环境要求
